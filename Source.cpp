@@ -5,7 +5,7 @@
 void main()
 {
 	int i = 1;
-	std::cout << "Hello jenkins.";
+	std::cout << "Hello jenkins";
 	
 		//pldl::UnitTest unitTest;
 }
